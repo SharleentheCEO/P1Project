@@ -70,5 +70,6 @@ Here are the key visualizations that summarize our findings:
 5. *Engine type*: this highlights critical areas for improvement in aviation safety and decision making hence contributing to a safer flights.
 6. *Number of engines*: understanding how the number of engines impacts on the injury rates can lead to better safety decisions and a safer flight for everyone hence making them suitable for purchase.
 ---
+https://public.tableau.com/app/profile/sharleen.liz/viz/p1dashboard_17273827156100/Dashboard1?publish=yes
 
 For any inquiries or further information, please contact Sharleen Liz at lizsharleen381@gmail.com
