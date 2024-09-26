@@ -69,7 +69,10 @@ Here are the key visualizations that summarize our findings:
 4. *aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*:The aircraft damage correlates with the number and type of injuries. The more the damage the more the injuries hence making them less suitable for purchase.
 5. *Engine type*: this highlights critical areas for improvement in aviation safety and decision making hence contributing to a safer flights.
 6. *Number of engines*: understanding how the number of engines impacts on the injury rates can lead to better safety decisions and a safer flight for everyone hence making them suitable for purchase.
+
+## Interactive Dashbord
+Explore Tableau Dashboard https://public.tableau.com/app/profile/sharleen.liz/viz/p1dashboard_17273827156100/Dashboard1?publish=yes
+
 ---
-https://public.tableau.com/app/profile/sharleen.liz/viz/p1dashboard_17273827156100/Dashboard1?publish=yes
 
 For any inquiries or further information, please contact Sharleen Liz at lizsharleen381@gmail.com
